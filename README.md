@@ -1,6 +1,6 @@
 # Traffic light classifier
 
-A simple code to classify color of traffic light.
+A simple code to classify color of a traffic light.
 
 
 ## How to run
